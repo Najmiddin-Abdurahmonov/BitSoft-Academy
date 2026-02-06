@@ -1,0 +1,108 @@
+{
+  "lessons": {
+    "1": [
+      {
+        "_id": "lesson-1-1",
+        "courseId": "1",
+        "title": "Introduction to JavaScript",
+        "content": "Learn the basics of JavaScript and why it's essential for web development.",
+        "duration": 45,
+        "videoId": "lfmg-EJ8gm4"
+      },
+      {
+        "_id": "lesson-1-2",
+        "courseId": "1",
+        "title": "Variables and Data Types",
+        "content": "Master variables, data types, and type coercion in JavaScript.",
+        "duration": 50,
+        "videoId": "lfmg-EJ8gm4"
+      },
+      {
+        "_id": "lesson-1-3",
+        "courseId": "1",
+        "title": "Functions and Scope",
+        "content": "Understand functions, scope, and closures in JavaScript.",
+        "duration": 55,
+        "videoId": "lfmg-EJ8gm4"
+      }
+    ],
+    "2": [
+      {
+        "_id": "lesson-2-1",
+        "courseId": "2",
+        "title": "HTML Basics",
+        "content": "Learn HTML structure and semantic elements.",
+        "duration": 40,
+        "videoId": "lfmg-EJ8gm4"
+      },
+      {
+        "_id": "lesson-2-2",
+        "courseId": "2",
+        "title": "CSS Fundamentals",
+        "content": "Master CSS styling, selectors, and layouts.",
+        "duration": 50,
+        "videoId": "lfmg-EJ8gm4"
+      },
+      {
+        "_id": "lesson-2-3",
+        "courseId": "2",
+        "title": "Responsive Design",
+        "content": "Create responsive websites using media queries and flexbox.",
+        "duration": 60,
+        "videoId": "lfmg-EJ8gm4"
+      }
+    ],
+    "3": [
+      {
+        "_id": "lesson-3-1",
+        "courseId": "3",
+        "title": "React Basics",
+        "content": "Introduction to React components and JSX.",
+        "duration": 50,
+        "videoId": "lfmg-EJ8gm4"
+      },
+      {
+        "_id": "lesson-3-2",
+        "courseId": "3",
+        "title": "React Hooks",
+        "content": "Master useState, useEffect, and custom hooks.",
+        "duration": 60,
+        "videoId": "lfmg-EJ8gm4"
+      },
+      {
+        "_id": "lesson-3-3",
+        "courseId": "3",
+        "title": "State Management",
+        "content": "Learn state management with Redux and Context API.",
+        "duration": 70,
+        "videoId": "lfmg-EJ8gm4"
+      }
+    ],
+    "4": [
+      {
+        "_id": "lesson-4-1",
+        "courseId": "4",
+        "title": "ES6 Features",
+        "content": "Explore arrow functions, destructuring, and template literals.",
+        "duration": 55,
+        "videoId": "lfmg-EJ8gm4"
+      },
+      {
+        "_id": "lesson-4-2",
+        "courseId": "4",
+        "title": "Async/Await",
+        "content": "Master asynchronous programming with async/await.",
+        "duration": 60,
+        "videoId": "lfmg-EJ8gm4"
+      },
+      {
+        "_id": "lesson-4-3",
+        "courseId": "4",
+        "title": "Advanced Patterns",
+        "content": "Learn design patterns and best practices.",
+        "duration": 65,
+        "videoId": "lfmg-EJ8gm4"
+      }
+    ]
+  }
+}

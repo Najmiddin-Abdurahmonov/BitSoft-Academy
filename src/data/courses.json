@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "_id": "1",
+      "title": "JavaScript Fundamentals",
+      "description": "Master the core concepts of JavaScript including variables, functions, objects, and asynchronous programming. Perfect for beginners starting their coding journey.",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      "points": 150,
+      "tags": ["Beginner", "Frontend", "JavaScript"],
+      "duration": "20 hours",
+      "rating": 4.8,
+      "instructor": "John Developer",
+      "lessons": 20
+    },
+    {
+      "_id": "2",
+      "title": "HTML & CSS Mastery",
+      "description": "Learn web fundamentals with HTML5 and modern CSS3. Create beautiful, responsive designs and master layouts with flexbox, grid, and animations. Build professional-looking websites from scratch.",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+      "points": 120,
+      "tags": ["Beginner", "Frontend", "HTML", "CSS"],
+      "duration": "18 hours",
+      "rating": 4.7,
+      "instructor": "Emma Design",
+      "lessons": 18
+    },
+    {
+      "_id": "3",
+      "title": "React Complete Course",
+      "description": "Learn React from the ground up to advanced level. Master components, hooks, state management, and build interactive web applications. Create real-world projects with React best practices.",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "points": 200,
+      "tags": ["Intermediate", "Frontend", "React"],
+      "duration": "24 hours",
+      "rating": 4.9,
+      "instructor": "Sarah React Master",
+      "lessons": 20
+    },
+    {
+      "_id": "4",
+      "title": "Advanced JavaScript & ES6+",
+      "description": "Deep dive into advanced JavaScript concepts including closures, prototypes, async/await, generators, and modern ES6+ features. Become a JavaScript expert with real-world project examples.",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      "points": 180,
+      "tags": ["Advanced", "Frontend", "JavaScript"],
+      "duration": "22 hours",
+      "rating": 4.8,
+      "instructor": "John Developer",
+      "lessons": 18
+    }
+  ]
+}
